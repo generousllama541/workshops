@@ -17,7 +17,7 @@ Name your app "SimpleCalculator" and choose the folder where you want to save yo
   <img alt="Uno Platform App template" src="../../../art/Light/Wizard/2.naming.png">
 </picture>
 
-In the first menu option "Framework", let's select **.NET8**.
+On the top left, click on the blank template button, then in the first menu option "Framework", let's select **.NET8**.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../../../art/Dark/Wizard/framework.png">
